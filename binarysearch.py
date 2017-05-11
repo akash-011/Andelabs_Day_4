@@ -1,6 +1,6 @@
 class BinarySearch(list):
 
-  def __init__(self, a, b): #Creates list of length a with steps of b between elements
+  def __init__(self, a, b): 
     self.a = a
     self.b = b
          
